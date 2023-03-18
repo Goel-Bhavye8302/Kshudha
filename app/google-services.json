@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468830598706",
+    "project_id": "skillful-jetty-380906",
+    "storage_bucket": "skillful-jetty-380906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468830598706:android:61578d76e4746433f4ae2b",
+        "android_client_info": {
+          "package_name": "com.ai.game.kshudha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468830598706-7bfr6cibqchj8epenh7asth87i0r60tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGOpF1wXVNkTlq__JEk-YU8ZzdmjPUiws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468830598706-7bfr6cibqchj8epenh7asth87i0r60tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
